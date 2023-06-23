@@ -1,0 +1,14 @@
+.cantidad-container{
+    border-radius: 61.536px;
+    background: #ECBAC4;
+    width: 61.536px;
+    height: 61.536px;
+    flex-shrink: 0;
+    position: absolute;
+    right: 37px;
+    top: 39px;
+}
+
+.cantidad-container img{
+    padding: 12px;
+}

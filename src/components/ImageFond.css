@@ -1,0 +1,38 @@
+.image-container{
+    border-radius: 14.201px;
+    border: 1.183px solid #ECBAC4;
+    background: #ECBAC4;
+    display: flex;
+    width: 454.417px;
+    padding: 14.201px 15.384px;
+    justify-content: center;
+    align-items: center;
+    gap: 16.567px;
+    position: absolute;
+    bottom: 35px;
+    left: 24px;
+}
+
+.image2{
+    border-radius: 33.135px;
+    background: #bd6577;
+    width: 33.135px;
+    height: 33.135px;
+    flex-shrink: 0;
+}
+
+.image2 img{
+    padding: 1px;
+}
+
+.image2{
+    border-radius: 33.135px;
+    background: #bd6577;
+    width: 33.135px;
+    height: 33.135px;
+    flex-shrink: 0;
+}
+
+.a-container img{
+    padding: 1px;
+}

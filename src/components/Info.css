@@ -1,0 +1,57 @@
+.detalles-container{
+    position: relative;
+    left: 37px;
+    top: 20px;
+    width: 450px;
+    height: 200px;
+}
+
+.nombre{
+    display: flex;
+    width: 317.145px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #111;
+    font-size: 28.401px;
+    font-family: SF Pro Display;
+    font-weight: 600;
+    letter-spacing: 0.568px;
+}
+
+.descripcion{
+    color: #696969;
+    font-size: 28.401px;
+    font-family: SF Pro Display;
+    display: flex;
+    width: 317.145px;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+.precio{
+    color: #111;
+    font-size: 37.868px;
+    font-family: SF Pro Display;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.sore{
+    position: relative;
+    top: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4.734px;
+
+    color: #696969;
+    font-size: 18.934px;
+    font-family: SF Pro Display;
+}
+
+
+.sore img{
+    width: 44.968px;
+    height: 44.968px;
+}
